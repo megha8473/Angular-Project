@@ -1,0 +1,5 @@
+{"_id":{"$oid":"5dc9763d0a0206522c8f2ad5"},"name":"neeta","position":"Snr. Developer","office":"London","salary":{"$numberInt":"234000"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5dcc0bb4875ac02fd83c9315"},"name":"Kanika","position":"Manager","office":"London","salary":{"$numberInt":"10000000"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5dcd50116b3e535854e418ec"},"name":"cguvjbh","position":"vghb","office":"vbn","salary":{"$numberInt":"7896"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5dcea73942b79f2c6c7eba6a"},"name":"shivani","position":"Snr. Developer","office":"London","salary":{"$numberInt":"23400"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5dcea77042b79f2c6c7eba6b"},"name":"kanika","position":"consulatant","office":"UK","salary":{"$numberInt":"147852"},"__v":{"$numberInt":"0"}}
